@@ -1,3 +1,3 @@
 # positive-lexicon
 
-Negative-intentioined wordlist for sentiment analysis and NLP.
+Positive-intentioined wordlist for sentiment analysis and NLP.
